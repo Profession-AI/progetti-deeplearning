@@ -27,3 +27,5 @@ L'integrazione di questa soluzione innovativa permetterà a GreenTech Solutions 
 **Dataset**
 
 Link: <https://proai-datasets.s3.eu-west-3.amazonaws.com/progetto-finale-flowes.tar.gz>
+
+# Modalità di consegna: link al notebook di Google Colab

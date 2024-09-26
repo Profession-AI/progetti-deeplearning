@@ -32,3 +32,5 @@ GourmetAI Inc., una rinomata azienda nel settore della tecnologia alimentare, si
 **Motivazione del Progetto:** Per GourmetAI Inc., la precisione nella classificazione delle immagini di cibo rappresenta un requisito fondamentale. Migliorare l'efficacia dei sistemi di classificazione non solo migliora l'esperienza utente e ottimizza i processi aziendali, ma consente anche di consolidare la leadership nel settore della tecnologia alimentare attraverso l'innovazione tecnologica.
 
 Con questo progetto, GourmetAI Inc. mira a sviluppare e implementare un sistema avanzato di classificazione di immagini di cibo, utilizzando tecniche all'avanguardia di deep learning per raggiungere performance superiori e soddisfare le esigenze specifiche del mercato.
+
+# Modalità di consegna: link al notebook di Google Colab

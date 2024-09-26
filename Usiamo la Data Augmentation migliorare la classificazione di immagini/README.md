@@ -20,3 +20,5 @@ Attualmente, i modelli esistenti basati su dataset limitati non riescono a rilev
 **Conclusioni**
 
 CyberEye Solutions si impegna a rafforzare la sicurezza delle infrastrutture critiche attraverso l'implementazione di soluzioni avanzate di riconoscimento di immagini. Utilizzando approcci innovativi e tecnologie all'avanguardia, l'azienda mira non solo a migliorare l'efficacia dei suoi sistemi di sicurezza cibernetica, ma anche a definire nuovi standard nel settore per la protezione delle infrastrutture critiche contro le minacce informatiche sempre più sofisticate.
+
+# Modalità di consegna: link al notebook di Google Colab

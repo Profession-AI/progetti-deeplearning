@@ -46,3 +46,5 @@ Benefici:
 - Discussione dettagliata delle metriche utilizzate e un'analisi critica delle prestazioni e limitazioni del modello.
 
 Questo progetto fornirà a VisionTech Solutions un sistema efficace per migliorare la sicurezza stradale e la gestione della fauna nelle aree urbane, dimostrando le competenze pratiche nell'applicazione del machine learning al riconoscimento delle immagini.
+
+# Modalità di consegna: link al notebook di Google Colab
