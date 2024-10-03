@@ -33,4 +33,9 @@ GourmetAI Inc., una rinomata azienda nel settore della tecnologia alimentare, si
 
 Con questo progetto, GourmetAI Inc. mira a sviluppare e implementare un sistema avanzato di classificazione di immagini di cibo, utilizzando tecniche all'avanguardia di deep learning per raggiungere performance superiori e soddisfare le esigenze specifiche del mercato.
 
+
+# Dataset
+
+Il dataset è disponibile al seguente link: https://proai-datasets.s3.eu-west-3.amazonaws.com/dataset_food_classification.zip
+
 # Modalità di consegna: link al notebook di Google Colab
