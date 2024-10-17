@@ -36,6 +36,4 @@ Con questo progetto, GourmetAI Inc. mira a sviluppare e implementare un sistema 
 
 # Dataset
 
-Il dataset è disponibile al seguente link: https://proai-datasets.s3.eu-west-3.amazonaws.com/dataset_food_classification.zip
-
-# Modalità di consegna: link al notebook di Google Colab
+Il dataset è disponibile al seguente link: [https://proai-datasets.s3.eu-west-3.amazonaws.com/dataset_food_classification.zip](https://proai-datasets.s3.eu-west-3.amazonaws.com/dataset_food_classification.zip)
