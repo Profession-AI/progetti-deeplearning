@@ -1,0 +1,377 @@
+[
+    {
+        "patient_name": "Patient 1",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-04-11",
+                "discharge_date": "2023-04-14",
+                "diagnosis": "Pneumonia",
+                "anamnesis": "No relevant anamnesis",
+                "prognosis": "Requires further monitoring",
+                "medications": [
+                    "Captopril",
+                    "Prednisone",
+                    "Ciprofloxacin",
+                    "Ibuprofen"
+                ],
+                "test_results": [
+                    "CT scan shows inflammation"
+                ]
+            },
+            {
+                "admission_date": "2023-10-16",
+                "discharge_date": "2023-10-27",
+                "diagnosis": "Bronchitis",
+                "anamnesis": "No prior conditions",
+                "prognosis": "Surgery recommended",
+                "medications": [
+                    "Ciprofloxacin",
+                    "Captopril"
+                ],
+                "test_results": [
+                    "MRI indicates tissue damage"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 2",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-01-18",
+                "discharge_date": "2023-01-27",
+                "diagnosis": "Arthritis",
+                "anamnesis": "History of hypertension",
+                "prognosis": "Requires further monitoring",
+                "medications": [
+                    "Prednisone",
+                    "Amoxicillin",
+                    "Paracetamol"
+                ],
+                "test_results": [
+                    "Fracture confirmed by X-ray",
+                    "CT scan shows inflammation"
+                ]
+            },
+            {
+                "admission_date": "2023-07-06",
+                "discharge_date": "2023-07-07",
+                "diagnosis": "Diabetes management",
+                "anamnesis": "Diabetic patient",
+                "prognosis": "Complete recovery",
+                "medications": [
+                    "Ciprofloxacin",
+                    "Prednisone",
+                    "Paracetamol"
+                ],
+                "test_results": [
+                    "MRI indicates tissue damage"
+                ]
+            },
+            {
+                "admission_date": "2023-04-07",
+                "discharge_date": "2023-04-20",
+                "diagnosis": "Fracture of leg",
+                "anamnesis": "History of hypertension",
+                "prognosis": "Positive recovery expected",
+                "medications": [
+                    "Paracetamol",
+                    "Aspirin",
+                    "Ciprofloxacin"
+                ],
+                "test_results": [
+                    "CT scan shows inflammation",
+                    "MRI indicates tissue damage"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 3",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-06-26",
+                "discharge_date": "2023-07-04",
+                "diagnosis": "Hypertension",
+                "anamnesis": "Frequent respiratory issues",
+                "prognosis": "Complete recovery",
+                "medications": [
+                    "Amoxicillin",
+                    "Metformin",
+                    "Paracetamol",
+                    "Captopril"
+                ],
+                "test_results": [
+                    "CT scan shows inflammation"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 4",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-10-29",
+                "discharge_date": "2023-11-12",
+                "diagnosis": "Pneumonia",
+                "anamnesis": "Diabetic patient",
+                "prognosis": "Surgery recommended",
+                "medications": [
+                    "Ibuprofen",
+                    "Paracetamol"
+                ],
+                "test_results": [
+                    "MRI indicates tissue damage",
+                    "Blood test normal"
+                ]
+            },
+            {
+                "admission_date": "2023-06-29",
+                "discharge_date": "2023-07-06",
+                "diagnosis": "Hypertension",
+                "anamnesis": "Diabetic patient",
+                "prognosis": "Surgery recommended",
+                "medications": [
+                    "Metformin",
+                    "Captopril"
+                ],
+                "test_results": [
+                    "MRI indicates tissue damage"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 5",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-02-14",
+                "discharge_date": "2023-02-26",
+                "diagnosis": "Heart failure",
+                "anamnesis": "History of hypertension",
+                "prognosis": "Positive recovery expected",
+                "medications": [
+                    "Ciprofloxacin",
+                    "Paracetamol",
+                    "Aspirin",
+                    "Prednisone"
+                ],
+                "test_results": [
+                    "Elevated white blood cells",
+                    "MRI indicates tissue damage"
+                ]
+            },
+            {
+                "admission_date": "2023-06-23",
+                "discharge_date": "2023-07-02",
+                "diagnosis": "Hypertension",
+                "anamnesis": "No relevant anamnesis",
+                "prognosis": "Requires further monitoring",
+                "medications": [
+                    "Captopril",
+                    "Omeprazole",
+                    "Ciprofloxacin",
+                    "Metformin"
+                ],
+                "test_results": [
+                    "MRI indicates tissue damage",
+                    "Blood test normal"
+                ]
+            },
+            {
+                "admission_date": "2023-03-15",
+                "discharge_date": "2023-03-27",
+                "diagnosis": "Bronchitis",
+                "anamnesis": "Diabetic patient",
+                "prognosis": "Surgery recommended",
+                "medications": [
+                    "Captopril",
+                    "Prednisone"
+                ],
+                "test_results": [
+                    "Blood test normal"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 6",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-04-21",
+                "discharge_date": "2023-04-24",
+                "diagnosis": "Heart failure",
+                "anamnesis": "History of hypertension",
+                "prognosis": "Positive recovery expected",
+                "medications": [
+                    "Ibuprofen",
+                    "Captopril",
+                    "Paracetamol",
+                    "Omeprazole"
+                ],
+                "test_results": [
+                    "MRI indicates tissue damage"
+                ]
+            },
+            {
+                "admission_date": "2023-05-31",
+                "discharge_date": "2023-06-03",
+                "diagnosis": "Kidney stones",
+                "anamnesis": "Diabetic patient",
+                "prognosis": "Positive recovery expected",
+                "medications": [
+                    "Aspirin",
+                    "Metformin"
+                ],
+                "test_results": [
+                    "Blood test normal"
+                ]
+            },
+            {
+                "admission_date": "2023-07-28",
+                "discharge_date": "2023-08-02",
+                "diagnosis": "Hypertension",
+                "anamnesis": "History of hypertension",
+                "prognosis": "Chronic condition management",
+                "medications": [
+                    "Prednisone",
+                    "Ciprofloxacin",
+                    "Captopril"
+                ],
+                "test_results": [
+                    "Fracture confirmed by X-ray"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 7",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-04-26",
+                "discharge_date": "2023-05-01",
+                "diagnosis": "Appendicitis",
+                "anamnesis": "Diabetic patient",
+                "prognosis": "Requires further monitoring",
+                "medications": [
+                    "Amoxicillin",
+                    "Losartan",
+                    "Metformin"
+                ],
+                "test_results": [
+                    "CT scan shows inflammation",
+                    "Blood test normal"
+                ]
+            },
+            {
+                "admission_date": "2023-11-08",
+                "discharge_date": "2023-11-18",
+                "diagnosis": "Arthritis",
+                "anamnesis": "History of hypertension",
+                "prognosis": "Positive recovery expected",
+                "medications": [
+                    "Amoxicillin",
+                    "Ibuprofen"
+                ],
+                "test_results": [
+                    "CT scan shows inflammation"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 8",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-10-16",
+                "discharge_date": "2023-10-30",
+                "diagnosis": "Appendicitis",
+                "anamnesis": "Diabetic patient",
+                "prognosis": "Requires further monitoring",
+                "medications": [
+                    "Metformin",
+                    "Prednisone",
+                    "Ibuprofen"
+                ],
+                "test_results": [
+                    "CT scan shows inflammation"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 9",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-03-02",
+                "discharge_date": "2023-03-16",
+                "diagnosis": "Heart failure",
+                "anamnesis": "No relevant anamnesis",
+                "prognosis": "Positive recovery expected",
+                "medications": [
+                    "Losartan",
+                    "Ibuprofen",
+                    "Prednisone"
+                ],
+                "test_results": [
+                    "Blood test normal",
+                    "Elevated white blood cells",
+                    "CT scan shows inflammation"
+                ]
+            },
+            {
+                "admission_date": "2023-03-07",
+                "discharge_date": "2023-03-12",
+                "diagnosis": "Arthritis",
+                "anamnesis": "Frequent respiratory issues",
+                "prognosis": "Complete recovery",
+                "medications": [
+                    "Ciprofloxacin",
+                    "Omeprazole",
+                    "Losartan",
+                    "Aspirin"
+                ],
+                "test_results": [
+                    "Blood test normal"
+                ]
+            }
+        ]
+    },
+    {
+        "patient_name": "Patient 10",
+        "hospitalizations": [
+            {
+                "admission_date": "2023-08-30",
+                "discharge_date": "2023-08-31",
+                "diagnosis": "Appendicitis",
+                "anamnesis": "No prior conditions",
+                "prognosis": "Requires further monitoring",
+                "medications": [
+                    "Prednisone",
+                    "Ibuprofen"
+                ],
+                "test_results": [
+                    "Blood test normal",
+                    "CT scan shows inflammation"
+                ]
+            },
+            {
+                "admission_date": "2023-08-02",
+                "discharge_date": "2023-08-11",
+                "diagnosis": "Heart failure",
+                "anamnesis": "No prior conditions",
+                "prognosis": "Positive recovery expected",
+                "medications": [
+                    "Metformin",
+                    "Losartan",
+                    "Captopril"
+                ],
+                "test_results": [
+                    "MRI indicates tissue damage",
+                    "Blood test normal",
+                    "Elevated white blood cells"
+                ]
+            }
+        ]
+    }
+]
