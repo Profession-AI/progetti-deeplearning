@@ -13,7 +13,7 @@ Attualmente, i modelli esistenti basati su dataset limitati non riescono a rilev
 **Dettagli del Progetto**
 
 - **Acquisizione del Dataset**: Utilizzare il dataset OxfordIIITPet da PyTorch come base per il progetto di miglioramento del sistema di riconoscimento di immagini per infrastrutture critiche.
-- **Image Captioning e Generazione di Dati**: Applicare image captioning per creare descrizioni iniziali delle immagini. Successivamente, utilizzare modelli generativi per creare varianti delle immagini e dei testi, arricchendo così il dataset con dati artificialmente generati.
+- **Image Captioning e Generazione di Dati**: Applicare l’image captioning per creare descrizioni iniziali delle immagini. Successivamente, utilizzare un modello generativo di testo per produrre varianti o descrizioni analoghe. Infine, impiegare un modello generativo di immagini per creare nuove immagini a partire dalle caption originali o dai testi generati, arricchendo così il dataset con dati sintetici.
 - **Addestramento del Modello**: Addestrare un modello di riconoscimento di immagini utilizzando il dataset esteso, valutando la qualità dei dati prodotti e confrontando le performance del modello su dataset ridotto e dataset incrementato.
 - **Valutazione delle Performance**: Misurare l'accuracy, precision, recall e altre metriche di performance per confrontare il modello addestrato su entrambi i dataset. Commentare le differenze nelle performance e l'efficacia delle tecniche di Data Augmentation nel migliorare l'accuratezza del modello in contesti reali di sicurezza delle infrastrutture critiche.
 
