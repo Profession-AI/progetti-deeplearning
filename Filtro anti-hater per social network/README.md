@@ -61,7 +61,7 @@ L'azienda **TechTalk**, un forum per appassionati di tecnologia, ha riscontrato 
 - **Integrazione**: La soluzione sarà integrata direttamente nel sistema di commenti di **TechTalk**, rendendo il filtraggio automatico immediatamente operativo e senza impattare negativamente l'esperienza degli utenti.
 
 ### Dataset
-Il dataset è scaricabile da questo link: [https://proai-datasets.s3.eu-west-3.amazonaws.com/Filter_Toxic_Comments_dataset.csv](https://proai-datasets.s3.eu-west-3.amazonaws.com/Filter_Toxic_Comments_dataset.csv)
+Il dataset è scaricabile da questo link: [https://proai-datasets.s3.eu-west-3.amazonaws.com/Filter\_Toxic\_Comments\_dataset.csv](https://proai-datasets.s3.eu-west-3.amazonaws.com/Filter_Toxic_Comments_dataset.csv)
 
 ### Conclusione
 
