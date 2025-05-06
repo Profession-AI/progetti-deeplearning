@@ -27,7 +27,7 @@ Il progetto utilizza tecnologie NLP avanzate, sfruttando framework come **Huggin
 
 ## Implementazione
 Il progetto si sviluppa in tre fasi:
-1. **Fase 1 - Raccolta e Annotazione Dati**: creazione di un dataset etichettato con diverse tipologie di documenti.
+1. **Fase 1 - Raccolta e Annotazione Dati**: creazione di un dataset etichettato con diverse tipologie di documenti. È possibile utilizzare dataset già esistenti e di pubblica disponibilità oppure dataset fittizi.
 2. **Fase 2 - Addestramento del Modello NLP**: sviluppo e tuning del modello di classificazione.
 3. **Fase 3 - Integrazione e Testing**: validazione dei risultati.
 
