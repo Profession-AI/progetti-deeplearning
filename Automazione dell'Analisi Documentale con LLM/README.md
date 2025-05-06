@@ -1,4 +1,4 @@
-# Caso d'Uso Aziendale: Automazione dell'Analisi Documentale con LLM
+# Automazione dell'Analisi Documentale con LLM
 
 ## Contesto Aziendale
 L'azienda **DataTrust Solutions**, leader nel settore della consulenza finanziaria e compliance, gestisce quotidianamente un elevato volume di documenti regolatori, report finanziari e verbali di meeting aziendali. L'analisi manuale di questi documenti è onerosa e soggetta a errori umani, portando a inefficienze nei processi decisionali.
@@ -30,6 +30,8 @@ Il progetto si articola in 3 fasi:
 1. **Fase 1 - Setup e Integrazione**: connessione del sistema ai repository aziendali e definizione delle pipeline di elaborazione.
 2. **Fase 2 - Sviluppo e Ottimizzazione**: miglioramento della precisione degli LLM nel riconoscere pattern nei documenti.
 3. **Fase 3 - Validazione e Deployment**: test su dataset reali e integrazione nel workflow aziendale.
+
+Per questo progetto è possibile utilzzare dei documenti fittizi, che vanno rilasciati insieme al codice, estraendo alcuni insight chiave da essi. È importante documentare le varie fasi del progetto, la tipologia di documenti utilizzati e l'importanza strategica degli insight ricavati.
 
 ## Conclusioni
 L'implementazione di un **LLM per l'analisi documentale** offre un vantaggio competitivo significativo a DataTrust Solutions, trasformando dati non strutturati in valore concreto per il business. Grazie a questa soluzione, l'azienda ottimizza i processi interni, garantisce la compliance e supporta il processo decisionale con informazioni accurate e tempestive.
