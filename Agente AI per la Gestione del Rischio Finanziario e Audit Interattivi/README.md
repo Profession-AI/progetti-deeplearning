@@ -32,5 +32,7 @@ Il progetto prevede tre fasi principali:
 2. **Fase 2 - Sviluppo dell'Agente AI**: addestramento dei modelli e integrazione con gli strumenti aziendali.
 3. **Fase 3 - Testing e Deployment**: validazione dei risultati con dati reali e rilascio dell’agente in ambiente di produzione.
 
+Per questo progetto è possibile utilzzare dei documenti fittizi, che vanno rilasciati insieme al codice. Il sistema deve avvalersi delle tecnologie indicate per individuare omissioni, inesattezze, possibili interpretazioni erronee e altri fattori di rischio, con un approccio conversazionale.
+
 ## Conclusioni
 L'agente AI di **FinSecure Analytics** rappresenta una soluzione innovativa per trasformare la gestione del rischio e gli audit aziendali, riducendo i tempi di analisi, migliorando la precisione dei report e supportando il team finanziario con strumenti predittivi avanzati.
